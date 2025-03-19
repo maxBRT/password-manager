@@ -1,6 +1,6 @@
 module github.com/maxBRT/password-manager
 
-go 1.23.7
+go 1.23.5
 
 require fyne.io/fyne/v2 v2.5.5
 
