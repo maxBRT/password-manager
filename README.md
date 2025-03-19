@@ -1,6 +1,7 @@
 # Password Manager
 
-## This is a draft version of the programm, note that password are only encoded in Base64. AES encryption is comming shortly.
+## This is a draft version of the program, note that password are only encoded in Base64. AES encryption is comming shortly.
+
 
 A secure and efficient tool for managing your passwords.
 
